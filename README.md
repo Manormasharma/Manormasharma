@@ -39,11 +39,8 @@ const skills = {
 🚀 About Me
 
 👩‍💻 Currently working on Humbee, a platform offering social benefit services for Indian value chain partners.
-
 📦 Previously contributed at Brickwork, HackerEarth, and Oceanic Studio.
-
 ⚡ Passionate about modern UI development and backend integration.
-
 🎯 Goal: Become a full-stack developer using modern stacks like MERN or MANG.
 
 🌐 Based in West Delhi, India.
@@ -51,6 +48,7 @@ const skills = {
 📚 Certified: Microsoft Azure Fundamentals, Namaste React, Python, GitHub Essentials
 
 🧠 I’m Currently Learning
+
 System Design & Architecture
 Advanced Azure
 Backend with Node.js + MongoDB
@@ -59,4 +57,6 @@ Backend with Node.js + MongoDB
 📩 Email: mannuu0501@gmail.com
 
 📊 GitHub Stats
+---
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manormasharma&show_icons=true&theme=react&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manormasharma&theme=react&hide_border=true" width="48%" /> </p>
