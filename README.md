@@ -9,7 +9,79 @@
   <a href="https://manormasharma.github.io/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" />
   </a>
+  <a href="mailto:mannuu0501@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+
+### <p align="center"><h4 align="center"><samp> A Frontend Developer, Passionate about Modern UI & Full Stack Development </samp></h4></p>
+
+<div>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+  <br>
+
+- 👩‍💻 <samp><b>SDE-1 @ Twenty Point Nine Five Ventures Pvt. Ltd.</b>
+- 🚀 <samp>Working on **Humbee**, a platform for social benefit services.
+- 🎯 <samp>Goal: To become a **Full-Stack Developer** (MERN/MANG).
+- 🌱 <samp>Currently learning **System Design**, **Advanced Azure**, and **Backend Development**.
+- 👯 <samp>I’m looking to collaborate on open-source projects.
+- 💬 <samp>Ask me about **React, JavaScript, and Frontend Development**.
+- ⚡ <samp>Fun fact: I love exploring new tech and contributing to the developer community.
+</div>
+
+##
+<h3><b><samp>Skills</samp></b></h3>
+
+<h4><b><samp>Frontend</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,scss,mui&perline=18)
+
+<h4><b><samp>Backend & Databases</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql&perline=18)
+
+<h4><b><samp>Cloud, DevOps & Other Tools</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=azure,docker,git,github,bitbucket,jira,python,firebase,wordpress&perline=18)
+
+##
+<br>
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manormasharma&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manormasharma&theme=radical&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manormasharma&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<br>
+
+ ### 🏆 GitHub Profile Trophy:
+ <p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img width=800 src="https://github-profile-trophy.vercel.app/?username=manormasharma&column=7&theme=onedark&no-frame=true&no-bg=true"/>
+ </a>
+ </p>
+
+---
+
+### 🏆 Certifications:
+
+- **Microsoft Certified: Azure Fundamentals**
+- **Namaste React** by Akshay Saini
+- **Python**
+- **GitHub Essentials**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manormasharma&label=Profile%20views&color=0e75b6&style=flat" alt="manormasharma" />
+</p>
+
 
 ---
 
@@ -29,25 +101,17 @@ I'm a Frontend Developer with over 4 years of experience, currently working as a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,scss,mui,nodejs,express,mongodb,postgresql,azure,docker,git,github,bitbucket,jira,python,firebase,wordpress" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,scss,mui,nodejs,express,mongodb,postgresql,azure,docker,git,github,bitbucket,python,firebase,wordpress" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manormasharma&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manormasharma&theme=radical&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manormasharma&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🏆 Certifications:
+
+- **Microsoft Certified: Azure Fundamentals**
+
+### Certificates:
 
 - **Microsoft Certified: Azure Fundamentals**
 - **Namaste React** by Akshay Saini
