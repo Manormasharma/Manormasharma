@@ -1,61 +1,61 @@
-![Profile Views](https://komarev.com/ghpvc/?username=manormasharma)
-
 <p align="center">
-  <img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F70000&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Manorma+Sharma;A+passionate+Frontend+Developer;I+build+things+for+the+web." alt="Typing SVG" /></a>
 </p>
 
-<h2 align="center">Hi 👋, I'm Manorma Sharma</h2>
-
 <p align="center">
-  <strong>SDE-1 at Twenty Point Nine Five Ventures Pvt. Ltd.</strong><br/>
-  <strong>4+ Years of Experience | Frontend & Full Stack Developer</strong><br/>
   <a href="https://linkedin.com/in/manorma-sharma">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="22px" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://manormasharma.github.io/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Brightgreen?style=flat-square&logo=github" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💻 Tech Stack
+### 👨‍💻 About Me:
 
-```js
-const skills = {
-  frontend: [
-    "React.js", "JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3",
-    "Tailwind CSS", "Bootstrap 5", "SASS/SCSS", "Material UI (MUI)"
-  ],
-  backend: [
-    "Node.js", "Express.js", "REST API", "API Integration", "JWT"
-  ],
-  databases: ["MongoDB", "PostgreSQL"],
-  cloud: ["Azure Cloud", "Docker"],
-  devTools: ["Git", "Bitbucket", "GitHub Actions", "Asana", "Jira"],
-  others: ["Python", "WordPress", "Crownpeak CMS", "Firebase"]
-}
+I'm a Frontend Developer with over 4 years of experience, currently working as an SDE-1 at **Twenty Point Nine Five Ventures Pvt. Ltd.** on **Humbee**, a platform offering social benefit services for Indian value chain partners. I'm passionate about building modern, responsive, and user-friendly web applications. My goal is to become a full-stack developer using modern stacks like MERN or MANG.
 
-🚀 About Me
+- 🔭 I’m currently working on enhancing my backend skills with **Node.js** and **MongoDB**.
+- 🌱 I’m currently learning **System Design & Architecture** and advanced **Azure** concepts.
+- 👯 I’m looking to collaborate on open-source projects related to **React** and **JavaScript**.
+- 📫 How to reach me: **mannuu0501@gmail.com**
+- ⚡ Fun fact: I love to explore new technologies and contribute to the developer community.
 
-👩‍💻 Currently working on Humbee, a platform offering social benefit services for Indian value chain partners.
-📦 Previously contributed at Brickwork, HackerEarth, and Oceanic Studio.
-⚡ Passionate about modern UI development and backend integration.
-🎯 Goal: Become a full-stack developer using modern stacks like MERN or MANG.
+---
 
-🌐 Based in West Delhi, India.
+### 🚀 Tech Stack:
 
-📚 Certified: Microsoft Azure Fundamentals, Namaste React, Python, GitHub Essentials
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,scss,mui,nodejs,express,mongodb,postgresql,azure,docker,git,github,bitbucket,jira,python,firebase,wordpress" />
+  </a>
+</p>
 
-🧠 I’m Currently Learning
+---
 
-System Design & Architecture
-Advanced Azure
-Backend with Node.js + MongoDB
+### 📊 GitHub Stats:
 
-📫 Let's Connect
-📩 Email: mannuu0501@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manormasharma&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manormasharma&theme=radical&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manormasharma&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-###
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manormasharma&show_icons=true&theme=react&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manormasharma&theme=react&hide_border=true" width="48%" /> </p>
+---
+
+### 🏆 Certifications:
+
+- **Microsoft Certified: Azure Fundamentals**
+- **Namaste React** by Akshay Saini
+- **Python**
+- **GitHub Essentials**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manormasharma&label=Profile%20views&color=0e75b6&style=flat" alt="manormasharma" />
+</p>
