@@ -26,7 +26,6 @@
 - 🌱 <samp>Currently learning **System Design**, **Advanced Azure**, and **Backend Development**.
 - 👯 <samp>I’m looking to collaborate on open-source projects.
 - 💬 <samp>Ask me about **React, JavaScript, and Frontend Development**.
-- ⚡ <samp>Fun fact: I love exploring new tech and contributing to the developer community.
 </div>
 
 ##
