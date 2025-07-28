@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F70000&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Manorma+Sharma;Passionate+Frontend+Developer;I+build+things+for+the+web." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F70000&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Manorma+Sharma;Passionate+Full+Stack+Developer;Constantly+learning+and+growing" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 
-### <p align="center"><h4 align="center"><samp> A Frontend Developer, Passionate about Modern UI & Full Stack Development </samp></h4></p>
+### <p align="center"><h4 align="center"><samp> A Full Stack Developer, Passionate about Modern UI & Full Stack Development </samp></h4></p>
 
 <div>
   <br>
@@ -25,7 +25,6 @@
 - 🎯 <samp>Goal: To become a **Full-Stack Developer** (MERN/MANG).
 - 🌱 <samp>Currently learning **System Design**, **Advanced Azure**, and **Backend Development**.
 - 👯 <samp>I’m looking to collaborate on open-source projects.
-- 💬 <samp>Ask me about **React, JavaScript, and Frontend Development**.
 </div>
 
 ##
@@ -41,7 +40,7 @@
 
 <h4><b><samp>Cloud, DevOps & Other Tools</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=azure,docker,git,github,bitbucket,jira,python,firebase,wordpress&perline=18)
+![](https://skillicons.dev/icons?i=azure,docker,git,github,bitbucket,python,firebase,wordpress&perline=18)
 
 
 ### 🏆 Certifications:
