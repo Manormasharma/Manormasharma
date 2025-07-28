@@ -18,7 +18,6 @@
 ### <p align="center"><h4 align="center"><samp> A Frontend Developer, Passionate about Modern UI & Full Stack Development </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
 
 - 👩‍💻 <samp><b>SDE-1 @ Twenty Point Nine Five Ventures Pvt. Ltd.</b>
