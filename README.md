@@ -36,11 +36,11 @@
 
 <h4><b><samp>Backend & Databases</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql&perline=18)
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb,python,firebase,postgresql&perline=18)
 
 <h4><b><samp>Cloud, DevOps & Other Tools</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=azure,docker,git,github,bitbucket,python,firebase,wordpress&perline=18)
+![](https://skillicons.dev/icons?i=azure,docker,git,github,bitbucket,wordpress&perline=18)
 
 
 ### 🏆 Certifications:
