@@ -20,7 +20,7 @@
 <div>
   <br>
 
-- 👩‍💻 <samp><b>SDE-1 @ Twenty Point Nine Five Ventures Pvt. Ltd.</b>
+- 👩‍💻 <samp><b>SDE-1 @ HUMBEE</b>
 - 🚀 <samp>Working on **Humbee**, a platform for social benefit services.
 - 🎯 <samp>Goal: To become a **Full-Stack Developer** (MERN/MANG).
 - 🌱 <samp>Currently learning **System Design**, **Advanced Azure**, and **Backend Development**.
