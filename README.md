@@ -22,8 +22,8 @@
 
 - 👩‍💻 <samp><b>SDE-1 @ HUMBEE</b>
 - 🚀 <samp>Working on **Humbee**, a platform for social benefit services.
-- 🎯 <samp>Goal: To become a **Full-Stack Developer** (MERN/MANG).
-- 🌱 <samp>Currently learning **System Design**, **Advanced Azure**, and **Backend Development**.
+- 🎯 <samp>Goal: To become a **Full-Stack AI Engineer**.
+- 🌱 <samp>Currently learning **System Design**, **Advanced Azure**, **AWS Cloud** and **Backend Development**.
 - 👯 <samp>I’m looking to collaborate on open-source projects.
 </div>
 
