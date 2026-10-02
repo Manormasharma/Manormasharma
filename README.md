@@ -13,20 +13,13 @@
 
 ---
 
-## 🟢 Open to New Opportunities
-
-- 🎯 **Roles:** Full Stack Engineer · Software Engineer (React / Node) · AI / GenAI Engineer
-- 📍 **Open to relocate:** Europe (Sweden, Norway, Germany, the Netherlands, Denmark, Finland and other Schengen countries) · Bengaluru · Pune · Hyderabad
-- ⏳ **Notice period:** 45 days (open to an earlier start)
-
----
-
 ## 👩‍💻 About Me
 
 - 🏢 Software Development Engineer @ **HUMBEE**, a multi-role B2B platform connecting manufacturers, distributors, dealers and retailers
 - 🏗️ Led the frontend architecture redesign for 4 user roles on a shared React.js codebase
 - 🧩 Built a 30+ component reusable library and cut page-load time by ~30%
 - 🎓 **AWS Certified AI Practitioner**
+- 🎓 **Azure Fundamentals Certified**
 - 🎯 Goal: grow as a **Full Stack AI Engineer**
 - 🤝 Open to open-source collaboration
 
@@ -66,4 +59,6 @@
 ---
 
 ## 📫 Let's Connect
+
+If you're hiring, or you know someone who is, I'd love to hear from you.
 📧 **mannuu0501@gmail.com** · 🔗 [Portfolio](https://manormasharma.github.io/Portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/manorma-sharma)
